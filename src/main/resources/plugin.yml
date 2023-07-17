@@ -1,0 +1,11 @@
+name: ZombieLogin
+version: '${project.version}'
+main: cn.goucraft.zombielogin.main.ZombieLogin
+api-version: '1.20'
+authors: [GluttonFox]
+commands:
+  zl:
+    description: 测试
+    aliases: [zl,zombiel,zlogin]
+    usage: |
+      /zl reload
